@@ -42,7 +42,7 @@ The dataset wasn’t fully complete and had some inconsistencies, but it was a g
 Created by: Toka Gabr  
 
 Connect with me: 
-[LinkedIn Profile](www.linkedin.com/in/tokagabr) | [GitHub Profile](https://github.com/tokagabr)
+[LinkedIn Profile](https://www.linkedin.com/in/tokagabr/) | [GitHub Profile](https://github.com/tokagabr)
 
 
 #PowerBI #DataAnalytics #DAX #DataVisualization #NTI #FinalProject #DashboardDesign
