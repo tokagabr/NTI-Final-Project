@@ -29,13 +29,13 @@ The dataset wasn’t fully complete and had some inconsistencies, but it was a g
 **Dashboard Preview**
 
 **Sales Through Years**
-![Sales Through Years](Screenshots/dashboard1.jpg)
+![Sales Through Years]([Screenshots/dashboard1.jpg](https://github.com/tokagabr/NTI-Final-Project/blob/main/dashboard1.jpg?raw=true)
 
 **Profit in Regions**
-![Profit in Regions](Screenshots/dashboard2.jpg)
+![Profit in Regions](https://github.com/tokagabr/NTI-Final-Project/blob/main/dashboard2.jpg?raw=true)
 
 **Sales Statistics**
-![Sales Statistics](Screenshots/dashboard3.jpg)
+![Sales Statistics](https://github.com/tokagabr/NTI-Final-Project/blob/main/dashboard3.jpg?raw=true)
 
 Created by: Toka Gabr  
 
