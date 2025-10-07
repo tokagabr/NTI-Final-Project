@@ -6,12 +6,13 @@ It focuses on building a complete **Power BI dashboard**, from data modeling to 
 The dataset wasn’t fully complete and had some inconsistencies, but it was a great opportunity to practice **data cleaning, DAX calculations**, and **dashboard design** — and to experience working with real-world imperfect data.
 
 **Main Steps**
--Built a proper **data model** and defined relationships (Star Schema).  
--Created a **Date Table** with hierarchies (Year → Quarter → Month → Day).  
--Wrote DAX measures for:
+- Built a proper **data model** and defined relationships (Star Schema).  
+- Created a **Date Table** with hierarchies (Year → Quarter → Month → Day).  
+- Wrote DAX measures for:
   - Total Sales  
   - Profit & Profit Margin  
-  - Avg / Max / Min Unit Price  
+  - Avg / Max / Min Unit Price
+    
 -Designed multiple report pages:
   - Sales Through Years  
   - Profit in Regions  
@@ -19,10 +20,11 @@ The dataset wasn’t fully complete and had some inconsistencies, but it was a g
 - Improved visuals, slicers, and layout for a clean and professional look.
 
 **Tools Used**
--Power BI  
--DAX  
--Data Modeling  
--Data Visualization  
+- Power BI  
+- DAX  
+- Data Modeling  
+- Data Visualization  
+ 
 
 **Dashboard Preview**
 
